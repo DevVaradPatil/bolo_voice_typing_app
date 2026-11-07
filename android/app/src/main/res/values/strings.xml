@@ -1,0 +1,3 @@
+<resources>
+    <string name="a11y_desc">Shows the Bolo mic bubble whenever your keyboard is open, and types what you say into the text box you are in. Bolo reads only the focused text box, and only to insert your words.</string>
+</resources>
